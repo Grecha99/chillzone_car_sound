@@ -46,6 +46,16 @@ data_file 'AUDIO_GAMEDATA' 'audio/elegyx/elegyx_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audio/elegyx/elegyx_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_elegyx'
 
+files {
+	'audio/aventadorv12/aventadorv12_game.dat151.rel',
+	'audio/aventadorv12/aventadorv12_sounds.dat54.rel',
+	'audio/sfx/dlc_aventadorv12/aventadorv12.awc',
+	'audio/sfx/dlc_aventadorv12/aventadorv12_npc.awc'
+}
+
+data_file 'AUDIO_GAMEDATA' 'audioconfig/aventadorv12_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/aventadorv12_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aventadorv12'
 
 
 
