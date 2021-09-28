@@ -31,7 +31,6 @@ data_file 'AUDIO_GAMEDATA' 'audio/turismoc/turismoc_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audio/turismoc/turismoc_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_turismoc'
 
-
 files {
     'audio/elegyx/elegyx_game.dat151',
     'audio/elegyx/elegyx_game.dat151.nametable',
@@ -41,12 +40,13 @@ files {
     'audio/elegyx/elegyx_sounds.dat54.rel',
     'audio/sfx/dlc_elegyx/elegyx.awc',
     'audio/sfx/dlc_elegyx/elegyx_npc.awc',
-
 }
 
 data_file 'AUDIO_GAMEDATA' 'audio/elegyx/elegyx_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audio/elegyx/elegyx_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_elegyx'
+
+
 
 
 
