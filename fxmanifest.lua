@@ -15,6 +15,7 @@ aventadorv12
 lfasound
 majimalm
 sentinelsg4
+chevroletlt4
 --]]
 
 files {
@@ -106,3 +107,14 @@ files {
 data_file 'AUDIO_GAMEDATA' 'audio/sentinelsg4/sentinelsg4_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audio/sentinelsg4/sentinelsg4_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'audio/_sfx/dlc_sentinelsg4'
+
+
+files {
+    'audio/chevroletlt4/chevroletlt4_game.dat151.rel',
+    'audio/chevroletlt4/chevroletlt4_sounds.dat54.rel',
+    'audio/_sfx/dlc_chevroletlt4/chevroletlt4.awc',
+    'audio/_sfx/dlc_chevroletlt4/chevroletlt4_npc.awc',
+}
+data_file 'AUDIO_GAMEDATA' 'audio/chevroletlt4/chevroletlt4_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audio/chevroletlt4/chevroletlt4_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'audio/_sfx/dlc_chevroletlt4'
