@@ -118,3 +118,14 @@ files {
 data_file 'AUDIO_GAMEDATA' 'audio/chevroletlt4/chevroletlt4_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audio/chevroletlt4/chevroletlt4_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'audio/_sfx/dlc_chevroletlt4'
+
+
+files {
+    'audio/rb26dett/rb26dett_game.dat151.rel',
+    'audio/rb26dett/rb26dett_sounds.dat54.rel',
+    'audio/_sfx/dlc_rb26dett/rb26dett.awc',
+    'audio/_sfx/dlc_rb26dett/rb26dett_npc.awc',
+} 
+data_file 'AUDIO_GAMEDATA' 'audio/rb26dett/rb26dett_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audio/rb26dett/rb26dett_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'audio/_sfx/dlc_rb26dett'  
