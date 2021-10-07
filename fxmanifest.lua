@@ -3,7 +3,7 @@ games {'gta5'}
 
 author 'Grecha'
 description 'Car sounds for car pack'
-version '1.5.0'
+version '1.6.0'
 
 --[[
 Car sounds to use in meta audiohashname:
