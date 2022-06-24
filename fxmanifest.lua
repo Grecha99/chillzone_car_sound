@@ -282,18 +282,14 @@ data_file 'AUDIO_SOUNDDATA' 'audio/m158huayra/m158huayra_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_m158huayra'
 
 files {
-    'audio/m297zonda/m297zonda_amp.dat10.nametable',
-    'audio/m297zonda/m297zonda_amp.dat10.rel',
-    'audio/m297zonda/m297zonda_game.dat151.nametable',
-    'audio/m297zonda/m297zonda_game.dat151.rel',
-    'audio/m297zonda/m297zonda_sounds.dat54.nametable',
-    'audio/m297zonda/m297zonda_sounds.dat54.rel',
+    'audio/m297zonda/m297zonda_game.dat151',
+    'audio/m297zonda/m297zonda_sounds.dat54',
     'audio/sfx/dlc_m297zonda/m297zonda.awc',
     'audio/sfx/dlc_m297zonda/m297zonda_npc.awc'
 }
 
 data_file 'AUDIO_GAMEDATA' 'audio/m297zonda/m297zonda_game.dat'
-data_file 'AUDIO_SOUNDDATA' 'audio/m297zonda/m297zonda_sounds/dat'
+data_file 'AUDIO_SOUNDDATA' 'audio/m297zonda/m297zonda_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_m297zonda'
 
 files {
